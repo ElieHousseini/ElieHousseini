@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ElieHousseini/ElieHousseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm a Front-End Developer React, CSS and HTML
 
 ✅ I post projects daily.
@@ -23,4 +20,3 @@ Designing wise, I use but not limited to Vanilla CSS and it's Frameworks: Bootst
 - 💬 Ping me about React, React Native, development, design, branding, design thinking
 - 📫 Reach me: eliashousseini@gmail.com
 - ⚡ Fun fact: I'm a huge fan of Happy Potter
--->
