@@ -17,5 +17,4 @@ Designing wise, I use but not limited to Vanilla CSS and it's Frameworks: Bootst
 - 🌱 I’m currently learning Symfony Framework
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ping me about React, React Native, development, design, branding, design thinking
-- 📫 Reach me: eliashousseini@gmail.com
 - ⚡ Fun fact: I'm a huge fan of Happy Potter
