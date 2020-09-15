@@ -14,7 +14,7 @@ Designing wise, I use but not limited to Vanilla CSS and it's Frameworks: Bootst
 
 - 🔭 I’m currently working on React and it's related libraries and CSS with it's typical Frameworks.
 - ⚙️ I use daily: .js, .css, .html
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Symfony Framework
 - 👯 I’m looking to collaborate on React Projects
 - 💬 Ping me about React, React Native, development, design, branding, design thinking
 - 📫 Reach me: eliashousseini@gmail.com
