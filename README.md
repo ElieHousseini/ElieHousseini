@@ -2,10 +2,6 @@
 
 ##Hi there! I'm **Elie**, a frontend developer who loves to create intuitive and visually appealing web experiences!
 
-![dancing on chair](https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif)
-
-
-
 ## My Frontend Development Skills 🛠️💻
 
 - 🌟 **NextJS**: Crafting lightning-fast, server-rendered React applications
