@@ -30,4 +30,4 @@ Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/elie
 
 Happy coding and remember, a little humor can go a long way! 😄
 
-[cat escaping](https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif)
+![cat escaping](https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif)
