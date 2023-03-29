@@ -1,5 +1,3 @@
-# Hello there, fellow human! 👋🌍
-
 ## Welcome to my GitHub profile! 😊🚀
 
 Hi there! I'm **(Your Name)**, a frontend developer who loves to create intuitive and visually appealing web experiences. While I take my work seriously, I also believe that a bit of humor can make the development journey more enjoyable!
