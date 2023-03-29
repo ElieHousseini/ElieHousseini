@@ -22,6 +22,6 @@ I'm always eager to collaborate on new projects and learn from my fellow develop
 
 ### Connect with me 🌐
 
-Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/elie-housseiny/) or drop me an [email](eliehousseini@gmail.com). Let's chat about web development, or discuss potential collaboration opportunities!
+Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/elie-housseiny/) or drop me an [email](mailto:eliehousseini@gmail.com). Let's chat about web development, or discuss potential collaboration opportunities!
 
 Happy coding and remember, a little humor can go a long way! 😄
