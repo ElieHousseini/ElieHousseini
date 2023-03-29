@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile! 😊🚀
 
-##Hi there! I'm **Elie**, a frontend developer who loves to create intuitive and visually appealing web experiences!
+Hi there! I'm **Elie**, a frontend developer who loves to create intuitive and visually appealing web experiences!
 
 ## My Frontend Development Skills 🛠️💻
 
