@@ -1,5 +1,7 @@
 ## Welcome to my GitHub profile! 😊🚀
 
+![dancing on chair](https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif)
+
 Hi there! I'm **Elie**, a frontend developer who loves to create intuitive and visually appealing web experiences!
 
 ### My Frontend Development Skills 🛠️💻
@@ -29,5 +31,3 @@ I'm always eager to collaborate on new projects and learn from my fellow develop
 Don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/elie-housseiny/) or drop me an [email](mailto:eliehousseini@gmail.com). Let's chat about web development, or discuss potential collaboration opportunities!
 
 Happy coding and remember, a little humor can go a long way! 😄
-
-![cat escaping](https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif)
