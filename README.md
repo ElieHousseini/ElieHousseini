@@ -18,7 +18,7 @@
 
 ## Expanding my horizons 🌈📚
 
-I'm currently delving into the world of PHP OOP (Object-Oriented Programming) and Symfony to broaden my backend development skills
+I'm currently delving into the world of PHP OOP (Object-Oriented Programming) and Laravel to broaden my backend development skills
 
 ## Collaboration and Future Projects 🤝🚀
 
