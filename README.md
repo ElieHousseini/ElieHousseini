@@ -18,7 +18,7 @@ Hi there! I'm **Elie**, a frontend developer who loves to create intuitive and v
 
 ## Expanding my horizons 🌈📚
 
-I'm currently delving into the world of **Vue JS* and **Nuxt** to broaden my FullStack development skills
+I'm currently delving into the world of **Vue JS** and **Nuxt** to broaden my FullStack development skills
 
 ## Collaboration and Future Projects 🤝🚀
 
